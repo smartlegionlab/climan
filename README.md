@@ -28,7 +28,7 @@ Author and developer: ___A.A Suvorov___
 
 ## What is news:
 
-### ___climan v0.1.0___
+### ___climan v0.2.0___
 
 ***
 
@@ -36,7 +36,7 @@ Author and developer: ___A.A Suvorov___
 
 ### Install and Use:
 
-- `pip3 install climan`
+- `pip install climan`
 
 ```python
 from climan.managers import ClickManager

@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # --------------------------------------------------------
 # Licensed under the terms of the BSD 3-Clause License
 # (see LICENSE for details).
@@ -8,4 +7,4 @@
 # Url: https://github.com/smartlegionlab
 # --------------------------------------------------------
 """Cross-platform config and manager for click console utilities."""
-__version__ = '0.1.2'
+__version__ = '0.2.0'
