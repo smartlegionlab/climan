@@ -1,6 +1,7 @@
 setuptools
 wheel
 pytest
+twine
 pytest-cov
 tox
 click~=8.0.1
