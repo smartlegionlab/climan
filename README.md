@@ -20,7 +20,7 @@ ___climan___ - Cross-platform config and manager for click console utilities.
 
 ***
 
-Author and developer: ___A.A Suvorov___
+Author and developer: ___A.A. Suvorov___
 
 [![smartlegiondev@gmail.com](https://img.shields.io/static/v1?label=email&message=smartlegiondev@gmail.com&color=blue)](mailto:mysmartlegionlab@ya.ru)
 
@@ -28,7 +28,7 @@ Author and developer: ___A.A Suvorov___
 
 ## What is news:
 
-### ___climan v0.2.0___
+### ___climan v0.2.1___
 
 ***
 
