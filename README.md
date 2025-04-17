@@ -2,6 +2,7 @@
 
 ***
 
+[![PyPI Downloads](https://static.pepy.tech/badge/climan)](https://pepy.tech/projects/climan)
 [![GitHub top language](https://img.shields.io/github/languages/top/smartlegionlab/climan)](https://github.com/smartlegionlab/climan/)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/climan?label=pypi%20downloads)](https://pypi.org/project/climan/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/smartlegionlab/climan)](https://github.com/smartlegionlab/climan/)
