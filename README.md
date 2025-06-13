@@ -1,4 +1,4 @@
-# climan
+# climan <sup>v0.3.1</sup>
 
 ***
 
@@ -29,7 +29,7 @@ Author and developer: ___A.A. Suvorov___
 
 ## What is news:
 
-### ___climan v0.2.1___
+### ___climan v0.3.1___
 
 ***
 
